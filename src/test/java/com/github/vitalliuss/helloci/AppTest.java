@@ -8,7 +8,7 @@ import org.junit.Test;
 /**
  * Unit test for simple App.
  * @author vitali_shulha
- * ST
+ * ST1
  */
 public class AppTest {
 
